@@ -1,3 +1,5 @@
+(Bournemouth University project)
+
 This project was a group effort, consisting of two major parts: Part A: Database Design and Implementation for a Flight Booking System, and Part B: Classification of Phishing URLs using Machine Learning.
 
 In Part A, I played a leading role in shaping the overall approach and was primarily responsible for the database design.
